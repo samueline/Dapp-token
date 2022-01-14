@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(208, 236, 255);
+}
+.header{
+    background-color: black;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-block-start: auto;
+}
+#content{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#loader{
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600px;
+    color: rgb(59, 0, 0);
+}
+.back{
+    height: 100vh;
+  width: 90%;
+  background-color: rgba(255, 232, 232, 0.342);
+  text-align: center;
+  position:relative;
+  margin-left: 5%;
+}
